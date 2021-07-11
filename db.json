@@ -1,7 +1,7 @@
 {
   "citizen": [
     {
-      "documentNumber": "1197480080397070",
+      "id": "1197480080397070",
       "documentType": "1",
       "issueNumber": "1",
       "dateOfIssue": "27/09/2008",
@@ -28,7 +28,7 @@
       "photo": "pic"
     },
     {
-      "id": "123456789",
+      "id": "123456",
       "first_name": "jaseph",
       "last": "Shyirambere",
       "sex": "M",
@@ -39,7 +39,7 @@
       "Village": "Gakoma"
     },
     {
-      "id": "987654321",
+      "id": "1111111111",
       "first_name": "Janvier",
       "last": "Muhawenimana",
       "sex": "M",
