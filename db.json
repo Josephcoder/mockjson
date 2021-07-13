@@ -28,38 +28,58 @@
       "photo": "pic"
     },
     {
-      "id": "123456",
-      "first_name": "jaseph",
-      "last": "Shyirambere",
+      "id": "1197480080397071",
+      "documentType": "1",
+      "issueNumber": "1",
+      "dateOfIssue": "27/09/2008",
+      "dateOfExpiry": "27/09/2008",
+      "placeOfIssue": "Gahini / Kayonza",
+      "applicationNumber": "00214377",
+      "foreName": "Martin",
+      "surnames": "MUKWIYE",
+      "fatherNames": "Mutsinzi Radislas",
+      "motherNames": "Nyirabirama Pascasie",
       "sex": "M",
-      "fothers_name": "Callixte",
-      "mothers_name": "Florida",
-      "district": "Nyamagabe",
-      "sector": "Kibirizi",
-      "Village": "Gakoma"
+      "dateOfBirth": "01/01/1974",
+      "placeOfBirth": "Rwamgana",
+      "countryOfBirth": "RW",
+      "villageId": "0504010409",
+      "village": "Rwinkuba",
+      "cell": "Urugarama",
+      "sector": "Gahini",
+      "district": "Kayonza",
+      "province": "Iburasirazuba",
+      "civilStatus": "S",
+      "spouse": null,
+      "status": "13",
+      "photo": "pic"
     },
     {
-      "id": "1111111111",
-      "first_name": "Janvier",
-      "last": "Muhawenimana",
+      "id": "1197480080397072",
+      "documentType": "1",
+      "issueNumber": "1",
+      "dateOfIssue": "27/09/2008",
+      "dateOfExpiry": "27/09/2008",
+      "placeOfIssue": "Gahini / Kayonza",
+      "applicationNumber": "00214377",
+      "foreName": "Martin",
+      "surnames": "MUKWIYE",
+      "fatherNames": "Mutsinzi Radislas",
+      "motherNames": "Nyirabirama Pascasie",
       "sex": "M",
-      "fothers_name": "Janvier",
-      "mothers_name": "Mere",
-      "district": "Nyarugenge",
-      "sector": "Biryogo",
-      "Village": "Rugunga"
-    }
-  ],
-  "hommies": [
-    {
-      "name": "Emmy",
-      "age": 29,
-      "id": 1
-    },
-    {
-      "name": "Alex",
-      "age": 29,
-      "id": 2
+      "dateOfBirth": "01/01/1974",
+      "placeOfBirth": "Rwamgana",
+      "countryOfBirth": "RW",
+      "villageId": "0504010409",
+      "village": "Rwinkuba",
+      "cell": "Urugarama",
+      "sector": "Gahini",
+      "district": "Kayonza",
+      "province": "Iburasirazuba",
+      "civilStatus": "S",
+      "spouse": null,
+      "status": "13",
+      "photo": "pic"
     }
   ]
 }
